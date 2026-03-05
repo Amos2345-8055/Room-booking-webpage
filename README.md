@@ -1,4 +1,4 @@
-[My Website image drive link](https://drive.google.com/drive/folders/1TFFWTLG2V0a5Nwqu2w3XNqloXld6Glj4?usp=sharing)
+[My Website](https://amos2345-8055.github.io/project--1/)
 
 Project Report: Azure Bliss Hotel & Spa Website
 1. Project Overview
